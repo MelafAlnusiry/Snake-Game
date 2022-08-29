@@ -17,4 +17,3 @@
 <img src="img/Snake.png" width= "700">
 </br>
 
-# URL Snake
